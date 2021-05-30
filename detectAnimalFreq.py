@@ -32,19 +32,19 @@ def gen_labels():
 
 def animal1(marine):
    
-    if marine == 'turtle':
+    if marine == 'sea turtles':
         print("The device will let out the frequency of 200-400 Hz")
   
-    elif marine == 'orca':
+    elif marine == 'orcas':
         print("The device will let out the frequency of 18,000-24,000 Hz")
   
-    elif marine == 'dolphin':
+    elif marine == 'dolphins':
         print("The device will let out the frequency of 40,000-100,000 Hz ")
     
     elif marine == 'cod fish':
         print("The device will let out the frequency of 60-310 Hz ")
         
-    elif marine == 'moon jellyfish':
+    elif marine == 'jellyfish':
         print("The device will let out the frequency of  38,000-120,000 Hz ")
     
     else:
